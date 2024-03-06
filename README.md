@@ -1,6 +1,6 @@
 # CineMonkeys
 
-<img src="Skytape.png" alt="exemplo imagem
+<img src="Skytape.png" alt="exemplo imagem">
 
 ## 📄 Goal:
 Create an app that signs in with Google. As well as send and receive messages from users 
